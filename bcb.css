@@ -27,20 +27,20 @@ h1{	font-family: 'stint ultra expanded', serif;
 	text-transform: uppercase;
 	font-size: 4em;
 	font-weight: 700;
-	text-align:left;
+	text-align:center;
 	}
 
 h2{	font-family: 'News Cycle', sans-serif; 
 	text-transform: uppercase;
 	font-size: 1.7em;
-	text-align: left; 
+	text-align: center; 
 	margin-top: -2.5em;
 	color: #dc322f;
 	}
 h3{	font-family: 'stint ultra expanded', sans-serif; 
 	text-transform: uppercase;
 	font-size: 1.5em;
-	text-align: left; 
+	text-align: center; 
 	color: #dc322f;
 	}
 h4{	font-family: 'News Cycle', sans-serif; 
