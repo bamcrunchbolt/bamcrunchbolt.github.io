@@ -161,14 +161,14 @@ dt{	float:left;
 	width: 15%;	
 	float: left;
 	text-align: left;
-	margin-left:0%;
+	margin-left:1%;
 }
 
 #col-r {
 	width: 15%;	
 	float: right;
 	text-align: center;
-	margin-right:0%;	
+	margin-right:1%;	
 }
 
 
@@ -176,7 +176,7 @@ dt{	float:left;
 	float: left;
 	text-align:left;
 	width:60%;
-	margin-left:5%;
+	margin-left:4%;
 }
 
 [class*='col-'] {
