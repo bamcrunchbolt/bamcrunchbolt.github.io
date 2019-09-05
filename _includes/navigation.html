@@ -4,9 +4,4 @@
       {{ item.name }}
     </a></h4>
   {% endfor %}
-<h4>Latest Posts</h4>
-
-  {% for post in site.posts %}
-     <p>>> <a class=menu href="{{ post.url }}">{{ post.date| date_to_string }}: {{ post.title }}</a></p>
-  {% endfor %}
 </nav>

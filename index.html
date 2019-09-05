@@ -9,9 +9,13 @@ title: sup nerds
     <title>{{ page.title }}</title>
   </head>
   <body>
-Here you'll find all my posts for EDU 370, and below you'll find an RSS feed for Harry Potter and the Sacred Text, one of my all time favorite podcasts of all time. 
+<h3 style="text-align:center;">--- Latest Posts ---</h3>
+  {% for post in site.posts limit: 5%}
+      <h4><a href="{{ post.url }}">{{ post.date| date_to_string }}: {{ post.title }}</a></h4>
+      <p style="margin-left:2em">{{ post.excerpt }}</p>
+      <a href="{{ post.url }}">Keep reading ... </a>
+  {% endfor %}
 
-<h4>Listen to Harry Potter and the Sacred Text!</h4>
-<script src="//rss.bloople.net/?url=http%3A%2F%2Ffeeds.harrypottersacredtext.com%2Fharrypottersacredtext&detail=-1&limit=4&showtitle=false&striphtml=true&type=js"></script>
+
   </body>
 </html>

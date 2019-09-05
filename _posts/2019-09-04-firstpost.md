@@ -4,10 +4,25 @@ author: laura
 description: First post for EDU 370, sort of testing the waters.
 title: First Post
 ---
-I have two things for you: (1) <a href="http://bitchmedia.org" target="_blank">a reading reccomendation</a>, and (2) a picture of Shaq with a mouse lemur named Fuggles.
+So my mission is as follows:
+<ol>
+<li>An active link</li>
+<li>Image</li>
+<li>Two Videos (one through You Tube search and one by embedding HTML)</li>
+<li>Google Translate gadget</li>
+<li>Box embed</li>
+<li>RSS feeds</li>
+<li>A post</li>
+</ol>
+Well, this is a post, so HOORAY!
+
+The translate widget, the Box embed, and an RSS feed for the four most recent episodes of Harry Potter and the Sacred Text are on every page. If you've never listened to HPST before, I recommend <a href="https://www.harrypottersacredtext.com/listen-2" target="_blank">starting from the beginning</a>. 
+
+Here's a picture of Shaq with a mouse lemur named Fuggles.
 <img src="/assets/img/shaq_lemur.jpg">
 
-I can't embed videos in any way other than just coding it in, so I'll give you only one video and probably you won't want another. 
-<iframe src="https://www.youtube.com/embed/Imhi98dHa5w" allowfullscreen></iframe>
+Because I'm not blogging through Google, I can't include videos in any way other than just coding it in, so I'll give you only one video. But it is such a masterpiece that it is easily worth two, even three videos. Four videos.
 
-The rest 
+<iframe src="https://www.youtube.com/embed/Imhi98dHa5w" allowfullscreen><a href="https://www.youtube.com/watch?v=Imhi98dHa5w" target="_blank">Can't play the video? Click here.</a></iframe>
+
+
