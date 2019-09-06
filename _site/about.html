@@ -13,35 +13,34 @@ function googleTranslateElementInit() {
 </head>
 <body>
 <div class="grid">
-<div id="title"><h1>hello world!</h1>
-<h2>edu370 bloggin' funtimes</h2>
-</div>
-<div id="col-l">
-<!-- 
-<img src="/assets/img/meDarwin.jpg" style="width:75%; margin-left:12.5%">
-<p class=caption>Me meeting Charles Darwin at the Natural History Museum in London!</p>
--->
-<h3 id="left">Blog</h3>
-    <nav>
+<div id="col-title">
+<div style="width:45%;"><h1>hello world!</h1>
+    <nav style="display:flex; justify-content:space-between; width:100%">
   
-    <h4><a class=menu href="/" >
+    <a id= "nav" class=menu href="/" >
       Home
-    </a></h4>
+    </a> 
   
-    <h4><a class=menu href="/blog.html" >
+    <a id= "nav" class=menu href="/blog.html" >
       Archive
-    </a></h4>
+    </a> 
   
-    <h4><a class=menu href="/about.html" style="color: #d2bbc5;">
+    <a id= "nav" class=menu href="/about.html" >
       About
-    </a></h4>
+    </a> 
   
 </nav>
 
+</div>
+</div>
+<div id="col-r">
+<h3 style="text-align:center;">Blog</h3>
 
 <div id="google_translate_element"></div>
-
-<iframe src="https://umt.app.box.com/embed/s/o788499x87zc7a7behxfi3zqj3harqo1?sortColumn=date&view=list" width="100%" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen style="margin-top: 1em;"></iframe>
+<iframe src="https://umt.app.box.com/embed/s/o788499x87zc7a7behxfi3zqj3harqo1?sortColumn=date&view=list" width="100%" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen style="margin-top: 1em; border:1px solid;"></iframe>
+<h3 id="right">Misc</h3>
+<h4 id="right">Listen to Harry Potter and the Sacred Text!</h4>
+<script src="//rss.bloople.net/?url=http%3A%2F%2Ffeeds.harrypottersacredtext.com%2Fharrypottersacredtext&detail=-1&limit=4&showtitle=false&striphtml=true&type=js"></script>
 </div>
 <div id="col-main">
 <h3> --- About! ---</h3>
@@ -51,11 +50,6 @@ function googleTranslateElementInit() {
 <p>The fonts on the site are Montserrat for the titles and Cousine for the body text; both are free on Google Fonts.</p>
 
 
-</div>
-<div id="col-r">
-<h3 id="right">Misc</h3>
-<h4 id="right">Listen to Harry Potter and the Sacred Text!</h4>
-<script src="//rss.bloople.net/?url=http%3A%2F%2Ffeeds.harrypottersacredtext.com%2Fharrypottersacredtext&detail=-1&limit=4&showtitle=false&striphtml=true&type=js"></script>
 </div>
 </div>
 </body>

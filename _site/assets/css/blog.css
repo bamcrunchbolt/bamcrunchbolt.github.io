@@ -3,10 +3,10 @@
 /* gray: 5a5852
 red: eb7b5b
 purple: d2bbc5*/
-body{	background: #5a5852;
+body{	background: #f;
 	font-family: 'Cousine', sans-serif; 
 	font-weight: 400;
-	color: #d2bbc5;
+	color: #002b36;
 	}
 
 p{	text-align: left; 
@@ -28,21 +28,22 @@ h1{	font-family: 'Montserrat', serif;
 	font-size: 4em;
 	font-weight: 700;
 	text-align:center;
-	color: #eb7b5b;
-	}
+	color: #839496;
+	margin:0.25em;
+}
 
 h2{	font-family: 'Montserrat', sans-serif; 
 	text-transform: uppercase;
 	font-size: 1.7em;
 	text-align: center; 
 	margin-top: -1.5em;
-	color: #eb7b5b;
+	color: #839496;
 	}
 h3{	font-family: 'Montserrat', sans-serif; 
 	text-transform: uppercase;
 	font-size: 1.5em;
 	text-align: center; 
-	color: #eb7b5b;
+	color: #839496;
 	}
 #left{
 	text-align:left;
@@ -55,30 +56,36 @@ h4{	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	font-size: 1em;
 	text-align: left; 
-	color: #eb7b5b;
+	color: #2aa198;
 	}
 .feed-item-title{
 	font-family: 'Cousine', sans-serif; 
 	font-weight: 400;
-	color: #d2bbc5;
+	color: #002b36;
 	text-align:right;
 }
+#nav{	font-family: 'Montserrat', sans-serif; 
+	text-transform: uppercase;
+	font-size: 1em;
+	color: #2aa198;
+	margin-bottom:1em;
+	}
 
 #divide{padding:2em;}
 
 /* body links*/
 a:link {
-	color: #eb7b5b;
+	color: #d33682;
 	text-decoration: underline; 
 	}
 
 a:visited{
-	color:#eb7b5b;
+	color: #d33682;
 	text-decoration: underline;
 	}
 
 a:hover { 
-	color: #d2bbc5; 
+	color: #d33682;
 	text-decoration: underline; 
 	}
 
@@ -87,21 +94,21 @@ a img {
 
 /*title link*/
 a.title{
-	color: #d33682;
+	color: #2aa198;
 	font-weight: bold; 
 	text-decoration: none; 
 	}
 a.title:hover{
-	color: #93a1a1;
+	color: #2aa198;
 	font-weight: bold; 
 	text-decoration: none; 
 	}
 a.menu{
-	color: #eb7b5b;
+	color: #2aa198;
 	text-decoration: none; 
 	}
 a.menu:hover{
-	color: #d2bbc5;
+	color: #2aa198;
 	text-decoration: none; 
 	}
 a.tooltip{
@@ -155,6 +162,9 @@ dt{	float:left;
 	width: 100%;
 	float: left;
 	text-align: center;
+	border-bottom: 1px dashed #eb7b5b;
+	display:flex;
+	justify-content:center;
 }
 
 #col-l {
@@ -165,10 +175,12 @@ dt{	float:left;
 }
 
 #col-r {
-	width: 15%;	
+	width: 20%;	
 	float: right;
 	text-align: center;
-	margin-right:1%;	
+	margin-right:1%;
+	padding-left:1%;
+	border-left: 1px dashed #eb7b5b;
 }
 
 
