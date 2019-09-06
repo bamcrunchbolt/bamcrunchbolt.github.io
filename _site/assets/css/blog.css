@@ -3,7 +3,7 @@
 /* gray: 5a5852
 red: eb7b5b
 purple: d2bbc5*/
-body{	background: #f;
+body{	background: #FFFfff;
 	font-family: 'Cousine', sans-serif; 
 	font-weight: 400;
 	color: #002b36;
@@ -180,15 +180,16 @@ dt{	float:left;
 	text-align: center;
 	margin-right:1%;
 	padding-left:1%;
-	border-left: 1px dashed #eb7b5b;
 }
 
 
 #col-main {
 	float: left;
 	text-align:left;
-	width:60%;
-	margin-left:4%;
+	width:75%;
+	padding-left:1%;
+	padding-right:1%;
+	border-right: 1px dashed #eb7b5b;
 }
 
 [class*='col-'] {
