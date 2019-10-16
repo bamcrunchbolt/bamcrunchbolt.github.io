@@ -3,10 +3,10 @@
 /* gray: 5a5852
 red: eb7b5b
 purple: d2bbc5*/
-body{	background: #5a5852;
+body{	background: #FBFBF5;
 	font-family: 'Cousine', sans-serif; 
 	font-weight: 400;
-	color: #d2bbc5;
+	color: #ffffff;
 	}
 
 p{	text-align: left; 
@@ -28,7 +28,7 @@ h1{	font-family: 'Montserrat', serif;
 	font-size: 4em;
 	font-weight: 700;
 	text-align:center;
-	color: #eb7b5b;
+	color: #70002e;
 	}
 
 h2{	font-family: 'Montserrat', sans-serif; 
@@ -36,13 +36,13 @@ h2{	font-family: 'Montserrat', sans-serif;
 	font-size: 1.7em;
 	text-align: center; 
 	margin-top: -1.5em;
-	color: #eb7b5b;
+	color: #d5802c;
 	}
 h3{	font-family: 'Montserrat', sans-serif; 
 	text-transform: uppercase;
 	font-size: 1.5em;
 	text-align: center; 
-	color: #eb7b5b;
+	color: #70002e;
 	}
 #left{
 	text-align:left;
