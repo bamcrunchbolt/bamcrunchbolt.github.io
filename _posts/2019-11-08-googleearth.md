@@ -1,7 +1,7 @@
 ---
 layout: post
 author: laura
-description: Parts 1, 2, and 4 of the Google Earth/Maps unit\: Geography guessing game, Three Wishes tour, GE lesson.
+description: Parts 1, 2, and 4 of the Google Earth/Maps unit---geography guessing game, Three Wishes tour, GE lesson. Part 3, From Birth to Missoula, is linked.
 title: Google Earth Project
 ---
 First, the guessing game, conveniently embedded here. 
