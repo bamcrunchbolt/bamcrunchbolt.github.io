@@ -1,0 +1,11 @@
+I"<h4 id="1-hour-of-code">1. Hour of Code</h4>
+<p>I <a href="https://twitter.com/bamcrunchbolt/timelines/1201648324463345666" target="_blank">wrote this up while doing the activity</a>, because I thought that would be fun! I did the Escape Velocity and Black Holes activity. I’m an experienced coder, but I’ve only dabbled with Javascript, so I enjoyed getting more experience!
+<img src="/assets/img/coding.png" /></p>
+
+<h4 id="2-unplugged-coding">2. Unplugged Coding</h4>
+<p>And after I did all that, I took a look at <a href="https://classic.csunplugged.org/wp-content/uploads/2014/12/unplugged-05-information_theory.pdf" target="_blank">this activity on information content</a>. You start by talking about what information is and how you can determine the amount of information in a sentence. For instance, vowels have low information content because you can read most sentences just fine without them; they’re basically empty calories and in computer science, we just want the meat.</p>
+
+<p>Then, the kids play a modified version of Twenty Questions that models this concept, and there’s a follow-up worksheet for independent work. Then there’s some final wrap-up stuff applying this concept directly to computer science.</p>
+
+<p>It’s targeted toward middle school students, but you’d really just have to age the language up a little bit to make it high-school-appropriate. You only need the worksheet to do it, which is great, although I’d probably want to have a little writeup to accompany the game, since it’s a modified version. Ideally, you want just yes/no questions since that mimics 1/0 bits. But I think this is a really neat activity, and takes a very abstract concept and makes it much easier to understand! I’d definitely use it in a programming class or a discrete math class.</p>
+:ET
