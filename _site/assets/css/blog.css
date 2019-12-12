@@ -1,5 +1,5 @@
 /*TEXT*/
-@import url('https://fonts.googleapis.com/css?family=Cousine|Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cousine|Montserrat:400,700&display=swap');
 /* gray: 5a5852
 red: eb7b5b
 purple: d2bbc5*/
@@ -119,6 +119,9 @@ a.tooltip{
 ul{	list-style: ">>  ";
 }
 dt{	float:left;
+	margin-right: 1em;
+}
+dd{	margin-bottom:1em;
 }
 /*Tooltips*/
 /* Tooltip container */
@@ -151,7 +154,6 @@ dt{	float:left;
 .tooltip:hover .ttt {
     visibility: visible;
 }
-</style>
 
 /*LAYOUT*/
 
