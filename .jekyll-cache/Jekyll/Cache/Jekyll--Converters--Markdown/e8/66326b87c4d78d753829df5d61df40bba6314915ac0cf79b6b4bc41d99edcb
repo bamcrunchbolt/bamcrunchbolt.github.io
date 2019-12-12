@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>SAMR&#58; Conservation of Momentum</title>
-<link rel="stylesheet" type="text/css" href="/assets/css/blog.css"> 
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-</head>
-<body>
-<div class="grid">
-<div id="col-title">
-<div style="width:45%;"><h1>hello world!</h1>
-    <nav style="display:flex; justify-content:space-between; width:100%">
-  
-    <a id= "nav" class=menu href="/" >
-      Home
-    </a> 
-  
-    <a id= "nav" class=menu href="/blog.html" >
-      Archive
-    </a> 
-  
-    <a id= "nav" class=menu href="/about.html" >
-      About
-    </a> 
-  
-</nav>
-
-</div>
-</div>
-<div id="col-r">
-<h3 style="text-align:center;">Bits and Bobs</h3>
-<div id="google_translate_element" style="width:30%; margin-left:3em;"></div>
-<iframe src="https://umt.app.box.com/embed/s/o788499x87zc7a7behxfi3zqj3harqo1?sortColumn=date&view=list" width="100%" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen style="margin-top: 1em; border:1px solid;"></iframe>
-<h4 style="text-align:center;">Listen to Harry Potter and the Sacred Text!</h4>
-<script src="//rss.bloople.net/?url=http%3A%2F%2Ffeeds.harrypottersacredtext.com%2Fharrypottersacredtext&detail=-1&limit=4&showtitle=false&striphtml=true&type=js"></script>
-</div>
-<div id="col-main">
-<h3>--- SAMR&#58; Conservation of Momentum ---</h3>
-<h4 style="color: #d33682;">11 Dec 2019</h4>
-
-<h4 id="narrative">Narrative</h4>
+I"�<h4 id="narrative">Narrative</h4>
 <p>So when I taught physics, conservation of momentum was, for some reason, very difficult for my kids to get. We’d just done energy and they totally got that, so I was surprised when conservation of momentum threw so many kids for a loop! So I developed a lesson around that.</p>
 
 <p>I think it’s neat that throughout the SAMR process you develop several different lessons approaching the same material in different ways, so you could do the low-tech version to introduce the subject and the high-tech version to give students a different way to engage with the material. I moved from a chalk-talk/math practice lesson plan, to a digital lab using a PhET, to an IRL lab using special equipment and software. I like that there’s lots of classical physics PhETs out there, but I do think the most engaging way to learn classical physics is to make it happen yourself, in the real world, gathering real data. So a lab is definitely where I wanted to end up with this.</p>
@@ -71,13 +25,4 @@ function googleTranslateElementInit() {
 <dt><a href="https://drive.google.com/open?id=1ipFeBpdVV6uPX2RYX2fPZhEV8oHEJik3" target="_blank">Shared Class Folder &gt;&gt;</a></dt><dd>This is where the students would access everything they needed for the lab, upload their Capstone files, and add their graph to the Results Share slideshow. I'm not submitting it as my Two Products but I figured I should still make it available!</dd>
 </dl>
 
-
-
-
-<h4 id="backForth"><a href="/2019/12/04/coding.html">&larr; Previous</a> <a href="">Next &rarr;</a></h4>
-
-</div>
-</div>
-</body>
-</html>
-
+:ET
