@@ -118,6 +118,9 @@ a.tooltip{
 /*Lists*/
 ul{	list-style: ">>  ";
 }
+li{	margin-bottom:0.5em;
+	margin-top:0.5em;
+}
 dt{	float:left;
 }
 /*Tooltips*/
@@ -187,8 +190,8 @@ dt{	float:left;
 #col-main {
 	float: left;
 	text-align:left;
-	width:60%;
-	margin-left:4%;
+	width:50%;
+	margin-left:28%;
 }
 
 [class*='col-'] {
