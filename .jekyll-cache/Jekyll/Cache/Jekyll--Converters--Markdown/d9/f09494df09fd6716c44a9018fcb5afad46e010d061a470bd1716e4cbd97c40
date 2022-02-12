@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>rcubik Custom Mini Painting</title>
-<link rel="stylesheet" type="text/css" href="../assets/css/r3.css">
-</head>
-<body>
-  <div class="grid" id="ql">
-<div id="col-title">
-  <h1>r<sup>3</sup></h1>
-</div>
-<div id="col-nav">
-  <h3>Exceptionally rad  mini painting for tabletop games.</h3>
-<nav style="display:flex; justify-content:space-between; width:100%">
-  
-    <a id= "nav" class=menu href="/rcubik" >
-      Home
-    </a> 
-  
-    <a id= "nav" class=menu href="/rcubik/about.html" >
-      About
-    </a> 
-  
-    <a id= "nav" class=menu href="/rcubik/portfolio.html" >
-      Portfolio
-    </a> 
-  
-    <a id= "nav" class=menu href="/rcubik/contact.html" >
-      Contact
-    </a> 
-  
-    <a id= "nav" class=menu href="/rcubik/buy.html" >
-      BUY!
-    </a> 
-  
-</nav>
-
-
-</div>
-<div id="col-content">
+I"^<p>Here is some text. Let’s see what happens.</p>
 <style>
     .image-gallery {overflow: auto; margin-left: -1%!important;}
     .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 49%;}
@@ -49,9 +9,4 @@
 
 <ul class="image-gallery"><li><a href="/assets/img/slider/Beholder.jpg" title="Beholder"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/slider/Beholder.jpg&amp;w=600&amp;h=600&amp;output=jpg&amp;q=90&amp;t=square" alt="Beholder" title="Beholder" /></a></li><li><a href="/assets/img/slider/Dragonborn%20Sorcerer%20and%20Cool-ass%20Fiery%20Horse.jpg" title="Dragonborn Sorcerer and Cool-ass Fiery Horse"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/slider/Dragonborn%20Sorcerer%20and%20Cool-ass%20Fiery%20Horse.jpg&amp;w=600&amp;h=600&amp;output=jpg&amp;q=90&amp;t=square" alt="Dragonborn Sorcerer and Cool-ass Fiery Horse" title="Dragonborn Sorcerer and Cool-ass Fiery Horse" /></a></li><li><a href="/assets/img/slider/Me%20and%20my%20VERY%20ATTRACTIVE%20PARTNER%20and%20our%20best%20baby%20boy.jpg" title="Me and my VERY ATTRACTIVE PARTNER and our best baby boy"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/slider/Me%20and%20my%20VERY%20ATTRACTIVE%20PARTNER%20and%20our%20best%20baby%20boy.jpg&amp;w=600&amp;h=600&amp;output=jpg&amp;q=90&amp;t=square" alt="Me and my VERY ATTRACTIVE PARTNER and our best baby boy" title="Me and my VERY ATTRACTIVE PARTNER and our best baby boy" /></a></li><li><a href="/assets/img/slider/Screaming%20Antelope%20from%20Kingdom%20Death.jpg" title="Screaming Antelope from Kingdom Death"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/slider/Screaming%20Antelope%20from%20Kingdom%20Death.jpg&amp;w=600&amp;h=600&amp;output=jpg&amp;q=90&amp;t=square" alt="Screaming Antelope from Kingdom Death" title="Screaming Antelope from Kingdom Death" /></a></li></ul>
 
-
-</div>
-
-</div>
-</body>
-</html>
+:ET

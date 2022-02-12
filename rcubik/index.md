@@ -1,5 +1,5 @@
 ---
-layout: r3_home
+layout: r3_main
 title: rcubik Custom Mini Painting
 ---
-Here is some text. Let's see what happens.
+{% include image-gallery.html folder="/assets/img/slider" %}
