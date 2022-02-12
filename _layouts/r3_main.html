@@ -3,7 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <title>{{ page.title }}</title>
-<link rel="stylesheet" type="text/css" href="../assets/css/r3.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/r3.css">
+<script type="text/javascript" src="/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="/assets/css/lightbox.css">
 </head>
 <body>
   <div class="grid">
@@ -13,12 +15,12 @@
 <div id="col-nav">
   <h3>Exceptionally rad  mini painting for tabletop games.</h3>
 {% include r3_nav.html %}
-{% include follow-buttons.html %}
 </div>
 <div id="col-content">
 {{ content }}
 </div>
 
 </div>
+{% include follow-buttons.html %}
 </body>
 </html>
