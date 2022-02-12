@@ -1,5 +1,7 @@
 /*TEXT*/
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Rubik:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,500;1,500&display=swap');
 /* gray: 5a5852
 red: eb7b5b
 purple: d2bbc5*/
@@ -10,8 +12,9 @@ purple: d2bbc5*/
   --accenttwo: #8E9059;
   --accentlink: #8E9059;
   --bgcolor: #ffffff;
-  --bodyFont: 'Rubik', sans-serif;
-  --headFont: 'Rubik Mono One', sans-serif;
+  --bodyFont: 'Open Sans', sans-serif;
+  --headFont: 'Open Sans Condensed', sans-serif;
+  --logoFont: 'Rubik Mono One', sans-serif;
 /*yellow: e4bc00
 green: 6f7620;
 barf: b69e00
@@ -50,7 +53,7 @@ p{	text-align: left;
 blockquote{ font-size:0.9em;
 }
 
-h1{	font-family: var(--headFont);
+h1{	font-family: var(--logoFont);
 	text-transform: lowercase;
 	font-weight: 700;
 	font-size: 5em;
@@ -60,7 +63,7 @@ h1{	font-family: var(--headFont);
 	}
 
 h2{	font-family: var(--headFont);
-	text-transform: lowercase;
+	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 2em;
 	font-style:italic;
@@ -68,11 +71,10 @@ h2{	font-family: var(--headFont);
 	margin-top:-0.5em;
 	color: var(--accenttwo);
 	}
-h3{	font-family: var(--bodyFont);
+h3{	font-family: 'Rubik';
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 500;
 	font-size: 1.5em;
-	text-align: center;
 	margin-top:-0.5em;
 	margin-bottom:0.5em;
 	color: var(--accenttwo);	
@@ -116,9 +118,10 @@ a.title:hover{
 a.menu{
 	color: var(--maincolor);
 	text-decoration: none;
-	padding-left:1em;
+	padding-left:4em;
 	font-family: var(--headFont);
-	text-transform: lowercase;
+	font-weight:700;
+	text-transform: uppercase;
 	font-size: 1.5em;
 	}
 a.menu:hover{
@@ -180,20 +183,20 @@ table, th, td{
 }
 
 #col-title {
-	width: 10%;
+	width: 5%;
 	float:left;
 	text-align:right;
 	margin-top:0%;
-	margin-left:5%;
+	margin-left:7.5%;
 	padding:0;
 	/*position:fixed;*/
 }
 
 #col-nav {
 	width: 80%;
-	float: right;
+	float: left;
 	margin-right:5%;
-	text-align: center;
+	text-align: right;
 	color: var(--accentone);
 	margin-top:2em;
 }
@@ -246,15 +249,4 @@ img {
 	width:100%;
 	/*margin-top:1%; 
 	  margin-left:-3%;*/
-}
-#button{
-	border: 1px solid #d33682;
-	text-align:center;
-	color: #859900;
-	font-family: 'Uni Sans Demo Heavy Caps', sans-serif; 
-	font-weight: 700;
-	padding:2%;
-	margin-top:1em;
-	float: left;
-	width:100%;
 }
