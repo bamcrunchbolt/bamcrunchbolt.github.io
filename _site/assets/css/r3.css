@@ -118,11 +118,13 @@ a.title:hover{
 a.menu{
 	color: var(--maincolor);
 	text-decoration: none;
-	padding-left:4em;
-	font-family: var(--headFont);
+	font-family: var(--logoFont);
+	text-align:right;
 	font-weight:700;
 	text-transform: uppercase;
 	font-size: 1.5em;
+	margin:0;
+	padding:0;
 	}
 a.menu:hover{
 	color: var(--accenttwo);
