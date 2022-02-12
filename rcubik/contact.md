@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: r3_main
 title: Contact | rcubik Custom Mini Painting
 ---
 - Business gmail?

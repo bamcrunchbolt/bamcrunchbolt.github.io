@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>{{ page.title }}</title>
-<link rel="stylesheet" type="text/css" href="/assets/css/r3.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/r3.css">
 </head>
 <body>
   <div class="grid" id="ql">
@@ -12,13 +12,10 @@
 </div>
 <div id="col-nav">
   <h3>Exceptionally rad  mini painting for tabletop games.</h3>
-{% include navigation.html %}
+{% include r3_nav.html %}
 </div>
 <div id="col-content">
-
-  {% include carousel.html height="50" unit="%" duration="7" %}
 {{ content }}
-
 </div>
 
 </div>
