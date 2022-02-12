@@ -1,10 +1,10 @@
 - name: Home
-  link: /
+  link: /rcubik
 - name: About
-  link: /about.html
+  link: /rcubik/about.html
 - name: Portfolio
-  link: /portfolio.html
+  link: /rcubik/portfolio.html
 - name: Contact
-  link: ../contact.html
+  link: /rcubik/contact.html
 - name: BUY!
-  link: /buy.html
+  link: /rcubik/buy.html

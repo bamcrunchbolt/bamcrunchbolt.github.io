@@ -160,10 +160,10 @@ table, th, td{
 }
 
 #col-content {
-	width: 100%;	
+	width: 90%;	
 	float: left;
 	text-align: left;
-	margin-right:-2%;
+	margin-left:5%;
 	margin-top:0;
 	/*padding:2%;
 	margin-left:10%;
@@ -172,30 +172,33 @@ table, th, td{
 
 #col-l {
 	width: 70%;
-	float: ;
+	float: left;
 	text-align: left;
 	margin-top:-0.5em;
+	margin-left:5%;
 	padding-right:1%;
 }
 
 #col-title {
-	width: 15%;
+	width: 10%;
 	float:left;
 	text-align:right;
 	margin-top:0%;
+	margin-left:5%;
 	padding:0;
 	/*position:fixed;*/
 }
 
 #col-nav {
-	width: 85%;
+	width: 80%;
 	float: right;
+	margin-right:5%;
 	text-align: center;
 	color: var(--accentone);
 	margin-top:2em;
 }
 #footer {
-	width: 100%; 
+	width: 90%; 
 	display: flex; 
 	float:left;
 	font-size: 0.8em;
