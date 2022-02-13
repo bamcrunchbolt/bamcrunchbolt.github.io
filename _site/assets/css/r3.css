@@ -9,9 +9,9 @@ purple: d2bbc5*/
 :root {
   --maincolor: #0c0c0c;
   --accentone: #0c0c0c; 
-  --accenttwo: #8E9059;
-  --accentlink: #8E9059;
-  --bgcolor: #ffffff;
+  --accenttwo: #3E573C;
+  --accentlink: #8EAE2F;
+  --bgcolor: #F4F4F4;
   --bodyFont: 'Open Sans', sans-serif;
   --headFont: 'Open Sans Condensed', sans-serif;
   --logoFont: 'Rubik Mono One', sans-serif;
@@ -127,7 +127,7 @@ a.menu{
 	padding:0;
 	}
 a.menu:hover{
-	color: var(--accenttwo);
+	color: var(--accentlink);
 	text-decoration: none; 
 	}
 a.tooltip{
