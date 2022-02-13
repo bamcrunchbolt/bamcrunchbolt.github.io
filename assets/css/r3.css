@@ -202,6 +202,13 @@ table, th, td{
 	color: var(--accentone);
 	margin-top:2em;
 }
+#img {
+	width: 33%;
+	float: left;
+	text-align: center;
+	color: var(--accentone);
+	margin-right:2em;
+}
 #footer {
 	width: 90%; 
 	display: flex; 

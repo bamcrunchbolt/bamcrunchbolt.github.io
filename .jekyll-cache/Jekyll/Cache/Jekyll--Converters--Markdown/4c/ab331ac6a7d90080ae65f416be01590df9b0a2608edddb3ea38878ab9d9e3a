@@ -1,0 +1,27 @@
+I"P<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 32%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+<ul class="image-gallery"><li><a href="/assets/img/slider/Beholder.jpg" title="Beholder">&gt;</a><a href="#_" class="lightbox" id="img1">
+  <figure><img src="img/sensei/kieflesson.jpg" />
+    <figcaption>Test22</figcaption>
+  </figure>
+</a></li><li><a href="/assets/img/slider/Dragonborn%20Sorcerer%20and%20Cool-ass%20Fiery%20Horse.jpg" title="Dragonborn Sorcerer and Cool-ass Fiery Horse">&gt;</a><a href="#_" class="lightbox" id="img1">
+  <figure><img src="img/sensei/kieflesson.jpg" />
+    <figcaption>Test22</figcaption>
+  </figure>
+</a></li><li><a href="/assets/img/slider/Me%20and%20my%20VERY%20ATTRACTIVE%20PARTNER%20and%20our%20best%20baby%20boy.jpg" title="Me and my VERY ATTRACTIVE PARTNER and our best baby boy">&gt;</a><a href="#_" class="lightbox" id="img1">
+  <figure><img src="img/sensei/kieflesson.jpg" />
+    <figcaption>Test22</figcaption>
+  </figure>
+</a></li><li><a href="/assets/img/slider/Screaming%20Antelope%20from%20Kingdom%20Death.jpg" title="Screaming Antelope from Kingdom Death">&gt;</a><a href="#_" class="lightbox" id="img1">
+  <figure><img src="img/sensei/kieflesson.jpg" />
+    <figcaption>Test22</figcaption>
+  </figure>
+</a></li></ul>
+
+:ET
