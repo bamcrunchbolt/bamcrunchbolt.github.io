@@ -165,10 +165,10 @@ table, th, td{
 }
 
 #col-content {
-	width: 90%;	
+	width: 85%;	
 	float: left;
 	text-align: left;
-	margin-left:5%;
+	margin-left:7.5%;
 	margin-top:0;
 	/*padding:2%;
 	margin-left:10%;
@@ -204,10 +204,11 @@ table, th, td{
 }
 #img {
 	width: 33%;
-	float: left;
+	float: right;
 	text-align: center;
 	color: var(--accentone);
-	margin-right:2em;
+	padding-right:0em;
+	margin-left:0;
 }
 #footer {
 	width: 90%; 
