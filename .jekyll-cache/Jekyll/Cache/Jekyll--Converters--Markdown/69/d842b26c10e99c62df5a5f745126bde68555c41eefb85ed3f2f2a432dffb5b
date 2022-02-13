@@ -1,0 +1,11 @@
+I"^<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 48%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+<ul class="image-gallery"><li><a href="/assets/img/slider/Beholder.jpg" title="Beholder"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/slider/Beholder.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="Beholder" title="Beholder" /><span></span></a></li><li><a href="/assets/img/slider/Dragonborn%20Sorcerer%20and%20Cool-ass%20Fiery%20Horse.jpg" title="Dragonborn Sorcerer and Cool-ass Fiery Horse"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/slider/Dragonborn%20Sorcerer%20and%20Cool-ass%20Fiery%20Horse.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="Dragonborn Sorcerer and Cool-ass Fiery Horse" title="Dragonborn Sorcerer and Cool-ass Fiery Horse" /><span></span></a></li><li><a href="/assets/img/slider/Me%20and%20my%20VERY%20ATTRACTIVE%20PARTNER%20and%20our%20best%20baby%20boy.jpg" title="Me and my VERY ATTRACTIVE PARTNER and our best baby boy"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/slider/Me%20and%20my%20VERY%20ATTRACTIVE%20PARTNER%20and%20our%20best%20baby%20boy.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="Me and my VERY ATTRACTIVE PARTNER and our best baby boy" title="Me and my VERY ATTRACTIVE PARTNER and our best baby boy" /><span></span></a></li><li><a href="/assets/img/slider/Screaming%20Antelope%20from%20Kingdom%20Death.jpg" title="Screaming Antelope from Kingdom Death"><img src="//images.weserv.nl/?url=localhost:4000/assets/img/slider/Screaming%20Antelope%20from%20Kingdom%20Death.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" alt="Screaming Antelope from Kingdom Death" title="Screaming Antelope from Kingdom Death" /><span></span></a></li></ul>
+
+:ET
