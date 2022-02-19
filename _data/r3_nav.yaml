@@ -1,8 +1,6 @@
-- name: Home
-  link: /rcubik
+- name: Portfolio
+  link: /rcubik/
 - name: About
   link: /rcubik/about.html
-- name: Portfolio
-  link: /rcubik/portfolio.html
 - name: BUY!
   link: /rcubik/buy.html

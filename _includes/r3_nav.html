@@ -1,8 +1,10 @@
-<nav style="display:flex; justify-content:space-between; width:80%; margin-left:10em;">
+<nav style="margin-top:6em;">
+<ul>
   {% for item in site.data.r3_nav %}
-    <a id= "nav" class=menu href="{{ item.link }}" {% if page.url == item.link %} {% endif %}>
+   <li> <a class=menu href="{{ item.link }}" {% if page.url == item.link %} {% endif %}>
       {{ item.name }}
-    </a> 
+    </a></li> 
   {% endfor %}
+</ul>
 </nav>
 

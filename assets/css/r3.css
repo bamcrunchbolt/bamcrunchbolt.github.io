@@ -55,9 +55,10 @@ blockquote{ font-size:0.9em;
 h1{	font-family: var(--logoFont);
 	text-transform: lowercase;
 	font-weight: 700;
-	font-size: 5em;
+	font-size: 4em;
 	margin-top:0;
 	margin-bottom:0;
+	text-align:left;
 	color: var(--accenttwo);
 	}
 
@@ -73,7 +74,7 @@ h2{	font-family: var(--headFont);
 h3{	font-family: 'Rubik';
 	text-transform: uppercase;
 	font-weight: 500;
-	font-size: 1.5em;
+	font-size: 1em;
 	margin-top:-0.5em;
 	margin-bottom:0.5em;
 	color: var(--accentone);	
@@ -104,24 +105,13 @@ a img {
 	border:none;}
 
 /*title link*/
-a.title{
-	color: var(--accenttwo);
-	font-weight: bold; 
-	text-decoration: none; 
-	}
-a.title:hover{
-	color:var(--accenttwo);
-	font-weight: bold; 
-	text-decoration: none; 
-	}
 a.menu{
 	color: var(--accenttwo);
 	text-decoration: none;
 	font-family: var(--logoFont);
-	text-align:right;
 	font-weight:700;
 	text-transform: uppercase;
-	font-size: 1.5em;
+	font-size: 1.7em;
 	margin:0;
 	padding:0;
 	}
@@ -139,6 +129,11 @@ dt{	float:left;
 	font-weight: 700;
 }
 dd{	padding-bottom:0.5em;
+}
+ul{	list-style-type:none;
+	margin:0;
+	padding:0;
+	text-align:center;
 }
 
 /*Tooltips*/
@@ -164,10 +159,10 @@ table, th, td{
 }
 
 #col-content {
-	width: 85%;	
-	float: left;
+	width: 65%;	
+	float: right;
 	text-align: left;
-	margin-left:7.5%;
+	margin-right:2%;
 	margin-top:0;
 	/*padding:2%;
 	margin-left:10%;
@@ -175,20 +170,21 @@ table, th, td{
 }
 
 #col-l {
-	width: 70%;
+	width: 27.5%;
 	float: left;
 	text-align: left;
-	margin-top:-0.5em;
-	margin-left:5%;
-	padding-right:1%;
+	margin-top:0;
+	margin-left:1%;
+	/*border-right:1px solid #000000;
+	padding-right:1%;*/
 }
 
 #col-title {
-	width: 5%;
+	width: 35%;
 	float:left;
-	text-align:right;
-	margin-top:0%;
-	margin-left:7.5%;
+	text-align:left;
+	margin-top:0;
+	margin-left:-1%;
 	padding:0;
 	/*position:fixed;*/
 }
