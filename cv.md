@@ -83,6 +83,6 @@ Conducted a search for planets around other stars (exoplanets) by direct imaging
 - [“Direct Imaging Discovery of a ‘Super-Jupiter’ around the Late B-type Star κ And”](https://iopscience.iop.org/article/10.1088/2041-8205/763/2/L32/meta) Carson, J., Thalmann, C., Janson, M., Kozakis, T., Bonnefoy, M., Biller, B., Schlieder, J., Currie, T., McElwain, M., Goto, M., Henning, T., Brandner, W., Feldt, M., Kandori, R., Kuzuhara, M., **Stevens, L.**, et al. ApJL 763.2, L32 (2013).
 
 # Skills
-- **Programming and Scripting:** Python, R, Java, Mathematica, LaTeX, HTML/CSS, Javascript, a little C
+- **Programming & Scripting:** Python, R, PHP, Java, Markdown, LaTeX, HTML/CSS, Javascript
 - **Software:** Microsoft Office, iMovie, Audacity, free analogs
 - **Operating Systems:** Linux, Windows, OSX
