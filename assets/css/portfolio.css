@@ -20,6 +20,8 @@ body{	background: var(--bgcolor);
 
 p{	text-align: left; 
 	}	
+
+.caption{ font-size: 0.75em;}
 	
 h1{	font-family: 'Roboto Slab', serif; 
 	text-transform: lowercase;
