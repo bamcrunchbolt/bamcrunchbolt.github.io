@@ -1,10 +1,10 @@
 ---
-layout: r3_main
+layout: default
 ---
 <h3>--- {{ page.title }} ---</h3>
-<h2 style="color: #d33682;">{{ page.date | date_to_string }}</h2>
+<h4>{{ page.date | date_to_string }}</h4>
 
 {{ content }}
 
 
-<h2 id="backForth"><a href="{{ page.previous.url }}">&larr; Previous</a> <a href="{{ page.next.url }}">Next &rarr;</a></h2>
+<h4 id="backForth"><a href="{{ page.previous.url }}">&larr; Previous</a> <a href="{{ page.next.url }}">Next &rarr;</a></h4>

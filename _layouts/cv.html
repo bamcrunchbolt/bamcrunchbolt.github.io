@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>{{ page.title }}</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/portfolio.css">
+</head>
+<body>
+<div class="grid">
+<div id="col-title">
+    {% include navigation.html %}
+</div>
+<div id="col-content">
+<div style="width:30%; float:left;padding-top:3em; position:fixed;">
+<h4><a href="#education" class="title">education</a></h4>
+<h4><a href="#experience" class="title">experience</a></h4>
+<h4><a href="#publications" class="title">publications</a></h4>
+<h4><a href="#skills" class="title">skills</a></h4>
+</div>
+<div style="width:70%; float:right;">
+{{ content }}
+</div>
+</div>
+</div>
+<div id="footer"><a class="menu" href="/" style="padding-left:20%;">home</a> <a class="menu" href="mailto:stevensl@gonzaga.edu">stevensl@gonzaga.edu</a></a> <a class="menu" href="about.html">about this site</a> </p></div>
+</body>
+</html>
+

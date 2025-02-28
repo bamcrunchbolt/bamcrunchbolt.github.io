@@ -1,7 +1,8 @@
-<nav style="display:flex; justify-content:space-between; width:100%">
+<nav style="width:95%; float: left; display: flex; justify-content: space-around;">
+<a class=menu href="/"><h3>Laura E. Stevens</h3></a>
   {% for item in site.data.navigation %}
-    <a id= "nav" class=menu href="{{ item.link }}" {% if page.url == item.link %} {% endif %}>
-      {{ item.name }}
-    </a> 
-  {% endfor %}
+    <a  class=menu href="{{ item.link }}" {% if page.url == item.link %} {% endif %}>
+      <h4>{{ item.name }}</h4>
+    </a>
+    {% end for %}
 </nav>

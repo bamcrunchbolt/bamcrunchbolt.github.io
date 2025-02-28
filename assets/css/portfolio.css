@@ -1,0 +1,191 @@
+/*TEXT*/
+ @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:wght@100..900&display=swap|Roboto:400,400i,700,700i&display=swap');
+/* gray: 5a5852
+red: eb7b5b
+purple: d2bbc5 */
+
+:root{
+  --maincolor: #601C3A;
+  --accentone: #D3AB49;
+  --accenttwo: #4A656D;
+  --accentthree: #BF3772;
+  --bgcolor: #F1F0E5;
+}
+
+body{	background: var(--bgcolor); 
+	font-family: 'Roboto', sans-serif; 
+	font-weight: 400;
+	color: var(--maincolor);
+	}
+
+p{	text-align: left; 
+	}	
+	
+h1{	font-family: 'Roboto Slab', serif; 
+	text-transform: lowercase;
+	font-weight: 900;
+	font-size: 4em;
+	text-align: center;
+	color: var(--accenttwo);
+	}
+
+h2{	font-family: 'Roboto Slab', sans-serif; 
+	text-transform: lowercase;
+	font-weight: 900;
+	font-size: 2em;
+	text-align: left;
+	color: var(--accenttwo);
+	}
+	
+h3{	font-family: 'Roboto Slab', sans-serif; 
+	text-transform: lowercase;
+	font-weight: 900;
+	font-size: 1.15em;
+	text-align: left; 
+	color: var(--accentthree);
+	}
+	
+h3.menu{	
+  color: var(--accentone);
+  
+}
+	
+h4{	font-family: 'Roboto Slab', sans-serif; 
+	text-transform: lowercase;
+	font-weight: 400;
+	font-size: 1em;
+	text-align: left; 
+	color: var(--bgcolor);
+	}
+	
+#divide{padding:2em;}
+
+/* body links*/
+a:link {
+	color: var(--accenttwo);
+	text-decoration: underline; 
+	}
+
+a:visited{
+	color: var(--accenttwo);
+	text-decoration: none;
+	}
+
+a:hover { 
+	color: var(--maincolor); 
+	text-decoration: none; 
+	}
+
+a img {
+	border:none;}
+
+/*title link*/
+a.title{
+	color: var(--accenttwo);
+	font-weight: bold; 
+	text-decoration: none; 
+	font-size:2em;
+	}
+	
+a.title:hover{
+	color:var(--accenttwo);
+	font-weight: bold; 
+	text-decoration: none; 
+	}
+	
+a.menu{
+	color: var(--maincolor);
+	text-decoration: none; 
+	}
+a.menu:hover{
+	color: var(--accentone);
+	text-decoration: none; 
+	}
+a.tooltip{
+	font-weight:normal;
+	color: var(--accenttwo);
+}
+/*Lists*/
+dt{	float:left;
+}
+
+/*LAYOUT*/
+
+* {
+    box-sizing: border-box;
+}
+
+#col-title {
+	width: 100%;	
+	float: left;
+	text-align: left;
+	position:fixed;
+	background-color: var(--accenttwo);
+	margin:-1%;
+	padding:1%;
+	border-bottom: 5px solid var(--accentone);
+}
+
+#col-content {
+	width: 75%;	
+	float: left;
+	text-align: left;
+	margin-left:12.5%;
+	padding-top:5%;
+}
+
+#col-l {
+	width: 45%;	
+	float: left;
+	text-align: left;
+	margin-right:5%;
+}
+
+#col-r {
+	width: 50%;	
+	float: right;
+	text-align: left;
+}
+#footer {
+	width: 75%; 
+	display: flex; 
+	font-size: 0.8em;
+	border-top: 1px solid var(--maincolor);
+	justify-content: space-between; 
+	margin-left: 12.5%; 
+	margin-top: 1%;
+}
+
+[class*='col-'] {
+	float: left;
+	padding-right: 20px;
+}
+.grid:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+[class*='col-']:last-of-type {
+	padding-right: 0;
+}
+/* Media */
+iframe{
+	width: 95%;
+	float:left;
+	height:65vh;
+}
+img {
+	width:100%;
+	margin-top:1%;
+}
+#button{ /*I don't know that I need a button but I like keeping the code here just in case.*/
+	border: 1px solid #d33682;
+	text-align:center;
+	color: #859900;
+	font-family: 'Roboto', sans-serif; 
+	font-weight: 700;
+	padding:2%;
+	margin-top:1em;
+	float: left;
+	width:100%;
+}

@@ -3,25 +3,19 @@
 <head>
 <meta charset="UTF-8">
 <title>{{ page.title }}</title>
-<link rel="stylesheet" type="text/css" href="/assets/css/exp.css"> 
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<link rel="stylesheet" type="text/css" href="/assets/css/portfolio.css">
 </head>
 <body>
 <div class="grid">
 <div id="col-title">
-<div><h2>{{ page.title }}</h2>
-
+    {% include navigation.html %}
 </div>
-</div>
-<div id="col-main">
+<div id="col-content">
+<h1>{{page.title}}</h1>
 {{ content }}
 </div>
 </div>
+<div id="footer"><a class="menu" href="/" style="padding-left:20%;">home</a> <a class="menu" href="mailto:stevensl@gonzaga.edu">stevensl@gonzaga.edu</a></a> <a class="menu" href="about.html">about this site</a> </p></div>
 </body>
 </html>
 

@@ -1,0 +1,199 @@
+/*TEXT*/
+@import url('https://fonts.googleapis.com/css?Roboto|Roboto+Condensed&display=swap|Playfair+Display:400,400i,900,900i&display=swap&subset=latin-ext');
+/* gray: 5a5852
+red: eb7b5b
+purple: d2bbc5*/
+
+:root {
+  --maincolor: #222222;
+  --accentone: #e33d26; 
+  --accenttwo: #444444;
+/*yellow: e4bc00
+green: 6f7620;
+barf: b69e00
+*/
+}
+
+body{	background: #fcfcfc; 
+	font-family: 'Roboto', sans-serif; 
+	font-weight: 400;
+	color: var(--maincolor);
+	}
+
+p{	text-align: left; 
+	}	
+.wow{	font-weight:bold;
+}
+
+.caption{
+	text-align:center;
+	font-size:0.8em;
+	font-style:italic;
+}
+.math{	text-align:center;
+	color: #cb4b16;
+}
+
+h1{	font-family: 'Playfair Display', serif; 
+	text-transform: lowercase;
+	font-weight: 900;
+	font-style: italic;
+	font-size: 4em;
+	text-align: center;
+	color: var(--accenttwo);
+	}
+
+h2{	font-family: 'Playfair Display', sans-serif; 
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 3em;
+	text-align: center;
+	color: var(--accenttwo);
+	}
+h3{	font-family: 'Playfair Display', sans-serif; 
+	text-transform: lowercase;
+	font-weight: 900;
+	font-size: 1.15em;
+	text-align: center; 
+	color: var(--accentone);
+	}
+h4{	font-family: 'Playfair Display', sans-serif; 
+	text-transform: lowercase;
+	font-weight: 400;
+	font-size: 1em;
+	text-align: left; 
+	color: var(--accenttwo);
+	}
+#divide{padding:2em;}
+
+/* body links*/
+a:link {
+	color: var(--accentone);
+	text-decoration: underline; 
+	}
+
+a:visited{
+	color: var(--maincolor);
+	text-decoration: underline;
+	}
+
+a:hover { 
+	color: var(--maincolor); 
+	text-decoration: none; 
+	}
+
+a img {
+	border:none;}
+
+/*title link*/
+a.title{
+	color: var(--accentone);
+	font-weight: bold; 
+	text-decoration: none; 
+	}
+a.title:hover{
+	color:var(--accentone);
+	font-weight: bold; 
+	text-decoration: none; 
+	}
+a.menu{
+	color: var(--accentone);
+	text-decoration: none; 
+	}
+a.menu:hover{
+	color: var(--accentone);
+	text-decoration: none; 
+	}
+a.tooltip{
+	font-weight:normal;
+	color:var(--accenttwo);
+}
+/*Lists*/
+dt{	float:left;
+}
+/*Tooltips*/
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;target="_blank" rel="noopener noreferrer"
+    border-bottom: 1px dotted; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .ttt {
+    visibility: hidden;
+    width: 20em;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -10em;
+    background-color: #073642;
+    color: #93a1a1;
+    text-align: center;
+    padding: 5px;
+    border:1px solid #93a1a1;
+    box-shadow: rgba(0, 0, 0, 0.25) 3px 3px 3px 3px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .ttt {
+    visibility: visible;
+}
+</style>
+
+/*LAYOUT*/
+
+* {
+    box-sizing: border-box;
+}
+
+#col-l {
+	width: 20%;	
+	float: left;
+	text-align: left;
+	position:fixed;
+}
+
+#col-r {
+	width: 75%;	
+	float: right;
+	text-align: left;
+	margin-right:2.5%;
+}
+
+[class*='col-'] {
+	float: left;
+	padding-right: 20px;
+}
+.grid:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+[class*='col-']:last-of-type {
+	padding-right: 0;
+}
+/* Media */
+iframe{
+	width: 95%;
+	float:left;
+	height:65vh;
+}
+img {
+	width:50%;
+	margin-left: 25%;
+}
+#button{
+	border: 1px solid #d33682;
+	text-align:center;
+	color: #859900;
+	font-family: 'Uni Sans Demo Heavy Caps', sans-serif; 
+	font-weight: 700;
+	padding:2%;
+	margin-top:1em;
+	float: left;
+	width:100%;
+}
