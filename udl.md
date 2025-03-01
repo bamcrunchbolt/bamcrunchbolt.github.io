@@ -3,9 +3,9 @@ layout: default
 title: UDL
 ---
 
-When we talk about multiple methods for engagement, for representation, and for expression, we're really talking about making education accessible and equitable. It's an issue of justice. And it's also just good, effective teaching.
+The core of Unversal Design for Learning, or [UDL](https://udlguidelines.cast.org/), is to provide multiple methods for engagement, for representation, and for expression. To be an effective teacher, I need to teach all of my students, not just the few for whom my route-one way of approaching material makes sense.
 
-So here are a few UDL-appropriate strategies I use in my classroom. 
+So here are a few UDL-appropriate strategies I use when designing materials and planning classes: 
 
 ## For goal-setting & executive function: 
 ### Explicit goal-setting time, with regularly scheduled check-ins
@@ -49,3 +49,4 @@ I like to provide near constant opportunities to reflect on the process of learn
 - Learning target assessments: rank your comfort level with today's learning targets on a scale from 1-4. For longer-term targets, track your comfort level as we work through the unit. 
 - After assessments: How did you prepare for this? What do you think worked? What do you think you want to do differently next time? 
 - After the semester or school year: What were you proud of? What do you wish you'd done differently? How will you take this with you into the next year? (A good opportunity for portfolio assessments!)
+

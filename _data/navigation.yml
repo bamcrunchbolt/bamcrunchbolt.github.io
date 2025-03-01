@@ -2,9 +2,9 @@
   link: /cv.html
 - name: Philosophy
   link: /philosophy.html
-- name: Classroom Management
-  link: /management.html
-- name: UDL Strategies
+#- name: Classroom Management
+#  link: /management.html
+- name: Instructional Strategies
   link: /udl.html
 - name: Sample Work
   link: /sampleWork.html
