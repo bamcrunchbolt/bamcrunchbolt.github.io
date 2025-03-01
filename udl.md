@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UDL
+title: Instructional Strategies
 ---
 
 The core of Unversal Design for Learning, or [UDL](https://udlguidelines.cast.org/), is to provide multiple methods for engagement, for representation, and for expression. To be an effective teacher, I need to teach all of my students, not just the few for whom my route-one way of approaching material makes sense.
