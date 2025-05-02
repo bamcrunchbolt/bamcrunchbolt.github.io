@@ -46,7 +46,7 @@ Wrote scripts for SciShow Space, an educational YouTube channel.
 - Summarized new research for a public audience.
 - Communicated science to the public in, hopefully, an engaging way. 
 
-Click [here](https://www.youtube.com/watch?=vEiSZaRnfIg) to watch one of my favorite videos.
+Click [here](https://www.youtube.com/watch?v=WetZdYCBWXs) to watch one of my favorite videos.
 
 ### STEM Teacher
 2013-2014    
