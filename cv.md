@@ -18,7 +18,7 @@ College of Charleston, Charleston, SC
 *Received May 2013*
 
 # Experience
-##  ... in teaching & communcating
+##  ... in teaching & communicating
 ### Lab Specialist
 2021-Present    
 *Department of Physics, Gonzaga University*
@@ -46,7 +46,7 @@ Wrote scripts for SciShow Space, an educational YouTube channel.
 - Summarized new research for a public audience.
 - Communicated science to the public in, hopefully, an engaging way. 
 
-Click [here](https://www.youtube.com/watch?v=WetZdYCBWXs) to watch one of my favorite videos.
+Click [here](https://youtu.be/WetZdYCBWXs?si=6t1YHycfUwqhilfL) to watch one of my favorite videos.
 
 ### STEM Teacher
 2013-2014    
