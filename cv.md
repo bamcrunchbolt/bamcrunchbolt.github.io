@@ -38,7 +38,7 @@ Taught the introductory geosciences lab for both majors and non-majors.
 - Facilitated weekly lab activities including chemical and physical testing of rocks and minerals, mapping activities, and modeling earth system dynamics.
 
 ### Freelance Script Writer
-2017-2021    
+2016-2021    
 *SciShow Space*
 
 Wrote scripts for SciShow Space, an educational YouTube channel. 
@@ -46,7 +46,7 @@ Wrote scripts for SciShow Space, an educational YouTube channel.
 - Summarized new research for a public audience.
 - Communicated science to the public in, hopefully, an engaging way. 
 
-Click [here](https://www.youtube.com/watch?v=vEiSZaRnfIg) to watch one of my favorite videos.
+Click [here](https://www.youtube.com/watch?=vEiSZaRnfIg) to watch one of my favorite videos.
 
 ### STEM Teacher
 2013-2014    
